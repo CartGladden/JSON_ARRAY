@@ -1,0 +1,16 @@
+{
+  "students": [
+    {
+      "name": "Cart Gladden V. Bandong",
+      "age": 21,
+      "quotes": "Music is the closent thing to have a time machine."
+    }
+  ],
+  "student_info": [
+    {
+      "section": "Section B",
+      "section_code": "T230",
+      "email": "1901102143@student.buksu.edu.ph"
+    }
+  ]
+}
